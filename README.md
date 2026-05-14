@@ -1,5 +1,7 @@
 # Bharat Road Risk Intelligence
 
+![System Architecture](./architecture.png)
+
 A predictive road-safety intelligence system for Indian roads. Detects near-misses, wrong-way driving, stalled vehicles, and pedestrian conflicts in real-time from CCTV feeds.
 
 > **Urgent Access**: For deployment credentials, API keys, or commercial licensing, contact: **celesticlabs@gmail.com**
@@ -34,16 +36,16 @@ CCTV Feed → YOLOv8s Detector → ByteTrack Tracker → Risk Engine → Gemma 4
 ## Quick Start
 
 ```bash
-# Clone
-git clone https://github.com/celestic-labs/bharat-road-risk.git
+git clone https://github.com/celesticlabs/bharat-road-risk.git
 cd bharat-road-risk
 
-# Install dependencies
 pip install -r requirements.txt
-
-# Run inference
 python -m src.pipeline --input demo/kolkata_traffic.mp4
 ```
+
+## Pitch Deck
+
+Download our investor pitch deck: [CelesticLabs_PitchGrant.pdf](./CelesticLabs_PitchGrant.pdf)
 
 ## Files
 
