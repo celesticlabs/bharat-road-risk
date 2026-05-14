@@ -68,7 +68,18 @@ Contact `celesticlabs@gmail.com` for deployment assistance, API access, or comme
 
 Proprietary. Contact for access.
 
+## Pitch Deck & Demo Video
+
+| Asset | Description |
+|-------|--------------|
+| [Pitch Deck](./CelesticLabs_PitchDeck.pdf) | 3-min investor pitch (slides) |
+| [Demo Video](./demo/sora_kolkata_traffic.mp4) | Sora-generated demo footage |
+| [Detection Demo](./demo/kolkata_detection.mp4) | Real detection on Kolkata traffic |
+
+> **Note**: Download the PDF from the repo files or contact `celesticlabs@gmail.com` for the latest version.
+
 ## Contact
 
 - **Email**: celesticlabs@gmail.com
 - **Website**: celesticlabs.ai (coming soon)
+- **GitHub**: https://github.com/celestic-labs/bharat-road-risk
