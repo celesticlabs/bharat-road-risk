@@ -70,11 +70,7 @@ Proprietary. Contact for access.
 
 ## Pitch Deck
 
-| Asset | Description |
-|-------|--------------|
-| [Pitch Deck](./CelesticLabs_PitchDeck.pdf) | 3-min investor pitch |
-
-> **Note**: Download the PDF from the repo files or contact `celesticlabs@gmail.com` for the latest version.
+Contact `celesticlabs@gmail.com` for the pitch deck and latest demo.
 
 ## Contact
 
