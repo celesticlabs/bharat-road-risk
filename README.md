@@ -1,8 +1,8 @@
 # Bharat Road Risk Intelligence
 
-![System Architecture](./architecture.png)
+![Banner](./architecture.png)
 
-A predictive road-safety intelligence system for Indian roads. Detects near-misses, wrong-way driving, stalled vehicles, and pedestrian conflicts in real-time from CCTV feeds.
+A predictive road-safety intelligence system for Indian roads.
 
 > **Urgent Access**: For deployment credentials, API keys, or commercial licensing, contact: **celesticlabs@gmail.com**
 
