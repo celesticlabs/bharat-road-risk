@@ -68,13 +68,11 @@ Contact `celesticlabs@gmail.com` for deployment assistance, API access, or comme
 
 Proprietary. Contact for access.
 
-## Pitch Deck & Demo Video
+## Pitch Deck
 
 | Asset | Description |
 |-------|--------------|
-| [Pitch Deck](./CelesticLabs_PitchDeck.pdf) | 3-min investor pitch (slides) |
-| [Demo Video](./demo/sora_kolkata_traffic.mp4) | Sora-generated demo footage |
-| [Detection Demo](./demo/kolkata_detection.mp4) | Real detection on Kolkata traffic |
+| [Pitch Deck](./CelesticLabs_PitchDeck.pdf) | 3-min investor pitch |
 
 > **Note**: Download the PDF from the repo files or contact `celesticlabs@gmail.com` for the latest version.
 
